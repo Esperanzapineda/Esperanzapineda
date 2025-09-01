@@ -4,7 +4,8 @@
     ¡Hola, soy Esperanza! 👋
   </h1>
   
-  <p><strong>Desarrolladora Web de Tunja, Colombia 🇨🇴. Apasionada por crear soluciones tecnológicas que aporten valor.</strong></p>
+  <p><strong>Desarrolladora Web de Tunja, Colombia 🇨🇴.Apasionada por crear soluciones tecnológicas que aporten valor.</strong></p>
+  <p><strong>Apasionada por crear soluciones tecnológicas que aporten valor.</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/esperanza-pineda-66ba54189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,8 +29,8 @@
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
   
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Esperanzapineda&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Mis Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true)
+![Mis Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanzaPineda&layout=compact&theme=radical&hide_border=true)
 
 </div>
