@@ -28,8 +28,6 @@
 
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
-  
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Esperanzapineda&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Mis Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanzaPineda&layout=compact&theme=radical&hide_border=true)
 
