@@ -4,7 +4,7 @@
     ¡Hola, soy Esperanza! 👋
   </h1>
   
-  <p><strong>Desarrolladora Web de Tunja, Colombia 🇨🇴.Apasionada por crear soluciones tecnológicas que aporten valor.</strong></p>
+  <p><strong>Desarrolladora Web de Tunja, Colombia 🇨🇴.</strong></p>
   <p><strong>Apasionada por crear soluciones tecnológicas que aporten valor.</strong></p>
 
   <p>
