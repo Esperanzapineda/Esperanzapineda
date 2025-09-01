@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Esperanza
 
-<!--
-**Esperanzapineda/Esperanzapineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una **Desarrolladora Web** apasionada por transformar ideas en soluciones de software funcionales, creativas y centradas en el usuario.
 
-Here are some ideas to get you started:
+### 🚀 Mi Stack de Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** JavaScript, TypeScript
+- **Frontend:** React, Next.js, HTML5, CSS3
+- **Herramientas:** Git, Node.js
+- 
+
+### 📫 ¿Hablamos?
+
+- **LinkedIn:** [https://www.linkedin.com/in/esperanza-pineda-66ba54189/]
+
+---
