@@ -7,7 +7,6 @@ Soy una **Desarrolladora Web** apasionada por transformar ideas en soluciones de
 - **Lenguajes:** JavaScript, TypeScript
 - **Frontend:** React, Next.js, HTML5, CSS3
 - **Herramientas:** Git, Node.js
-- 
 
 ### 📫 ¿Hablamos?
 
